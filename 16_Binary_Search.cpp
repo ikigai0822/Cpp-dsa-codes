@@ -1,3 +1,4 @@
+// Binary search implementation via recursion
 #include <iostream>
 #include <cmath>
 using namespace std;
