@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void fibonacci(int N, int &prev, int &sum)
+void fibonacci(int N, int &prev, int &sum) //  & here is use as the reference to the existing variable 
 {
     for (int i = 1; i <= N; i++)
     {
