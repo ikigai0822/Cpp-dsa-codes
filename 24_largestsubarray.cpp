@@ -29,3 +29,5 @@ int main() {
     cout << " and ends at index " << result.second << endl;
     return 0;
 }
+
+// this code can be optimized by using hasmap 
